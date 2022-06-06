@@ -1,0 +1,1 @@
+runas /savecred /user:kubis\f.burov "\\kmsad01\NETLOGON\Scripts\Active Directory\UserCreate.exe"
